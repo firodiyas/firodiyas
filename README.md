@@ -1,4 +1,4 @@
-# sayidorif-baxtiyorov# Hi, I'm Sayidorif 👋
+Hi, I'm Sayidorif 👋
 
 **Electrical & Electronics Engineering Student** at Xiamen University Malaysia  
 🇺🇿 From Uzbekistan &nbsp;|&nbsp; 📍 Based in Malaysia &nbsp;|&nbsp; 🔍 Seeking Semiconductor Internship in Tashkent
@@ -68,7 +68,9 @@ Real-time heart rate measurement by interfacing a **pulse sensor** with Raspberr
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayidorif%20Baxtiyorov-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/sayidorif-baxtiyorov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayidorif%20Baxtiyorov-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/sayidorif-baxtiyorov-4098992b2
+
+)
 [![Email](https://img.shields.io/badge/Email-saidorifbaxtiorov%40gmail.com-D14836?style=flat&logo=gmail)](mailto:saidorifbaxtiorov@gmail.com)
 
 ---
